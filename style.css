@@ -7,8 +7,8 @@ body{
 }
 
 h1 {
-    color: #8a2be2;
-    background-color: salmon;
+    color: #ffffff;
+    background-color: rgb(184, 114, 250);
     padding: 10px 50px 10px 10px; /* top, right, bottom, left */
     /* margin: 0 30px: /* TN, LR */
 }
